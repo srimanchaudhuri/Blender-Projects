@@ -23,5 +23,5 @@ https://github.com/srimanchaudhuri/Blender-Projects/assets/106372229/01238f2d-c2
 <img width="441" alt="Screenshot 2023-06-02 at 12 22 12 AM" src="https://github.com/srimanchaudhuri/Blender-Projects/assets/106372229/24973d46-54f6-434e-9374-3330bbd2d94a">
 
 
-![09CBF633-4963-4DD1-B0FC-7434B11FCB9B]![car-animation](https://github.com/srimanchaudhuri/Blender-Projects/assets/106372229/41a7fa17-1398-47cc-b8e8-7893c746787d)
+![car-animation](https://github.com/srimanchaudhuri/Blender-Projects/assets/106372229/41a7fa17-1398-47cc-b8e8-7893c746787d)
 
