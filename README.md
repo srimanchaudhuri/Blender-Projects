@@ -1,5 +1,18 @@
 # Blender-Projects
 
+This Showcases all the blender files and assests I created or have been working on.
+
+------------------------------------------
+
+This includes:
+
+👉🏼 Basic 3D Meshes
+👉🏼 Low-Poly Charecter with Animations
+👉🏼 3D Mech with a video of its 360 view
+👉🏼 3D Low-Poly Car with basic Animations
+
+------------------------------------------
+
 -> 3D Mech fully rendered video:
 
 https://github.com/srimanchaudhuri/Blender-Projects/assets/106372229/01238f2d-c25c-4847-9228-8d9a4ff4c49d
